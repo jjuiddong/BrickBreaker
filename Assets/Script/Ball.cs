@@ -9,7 +9,7 @@ public class Ball : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		m_Velocity = new Vector3 (0f, 0f, 0f);	
+		m_Velocity = new Vector3 (0f, 0f, 0f);
 	}
 	
 	// Update is called once per frame
@@ -22,5 +22,15 @@ public class Ball : MonoBehaviour {
 	void Shoot( Vector3 velocity )
 	{
 		m_Velocity = velocity;
+	}
+
+	void OnCollisionEnter(Collision other)
+	{
+		print ("collision ball enter");
+	}
+
+	void OnTriggerEnter(Collider other)
+	{
+		print ("trigger enter");
 	}
 }

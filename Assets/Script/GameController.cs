@@ -17,7 +17,7 @@ public class GameController : MonoBehaviour {
 
 	void ShootTimer()
 	{
-		GameObject.Find("Ball").SendMessage ("Shoot", new Vector3(0,0,1));
+		GameObject.Find("Ball").SendMessage ("Shoot", new Vector3(0,0,5));
 	}
 
 }

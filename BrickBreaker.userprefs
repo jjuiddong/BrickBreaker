@@ -1,18 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\Administrator\Documents\Lesson7\Assets\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Ball.cs">
     <Files>
-      <File FileName="C:\Users\Administrator\Documents\Lesson7\Assets\Debri.cs" Line="2" Column="26" />
-      <File FileName="Assets\Script\Ball.cs" Line="14" Column="4" />
-      <File FileName="Assets\Script\GameController.cs" Line="2" Column="26" />
-      <File FileName="C:\Users\Administrator\Documents\Lesson7\Assets\GameController.cs" Line="12" Column="19" />
+      <File FileName="Assets\Script\Brick.cs" Line="24" Column="1" />
+      <File FileName="Assets\Script\Ball.cs" Line="14" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="D:\Project\GitHub\BrickBreaker\Assets\Script\Ball.cs" line="26" />
-      <Breakpoint file="D:\Project\GitHub\BrickBreaker\Assets\Script\Ball.cs" line="14" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
