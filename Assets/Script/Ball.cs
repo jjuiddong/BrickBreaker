@@ -27,6 +27,15 @@ public class Ball : MonoBehaviour {
 	void OnCollisionEnter(Collision other)
 	{
 		print ("collision ball enter");
+
+		float power = 5;
+		Vector3 vel = (other.transform.position - transform.position).normalized;
+		vel.y = 0;
+		vel = -vel.normalized * power;
+		//GameObject.Find("Ball").SendMessage ("Shoot", vel);
+
+		print (vel);
+		Shoot (vel);
 	}
 
 	void OnTriggerEnter(Collider other)

@@ -16,7 +16,7 @@ public class Brick : MonoBehaviour {
 
 	void OnCollisionEnter( Collision other )
 	{
-		print ("collision ");
+		print ("collision brick");
 	}
 
 
