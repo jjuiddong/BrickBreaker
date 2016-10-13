@@ -1,14 +1,23 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Ball.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\UnityPractice\Lesson36\Assets\Script\CameraView.cs">
     <Files>
+      <File FileName="..\UnityPractice\Lesson7\Assets\Score.cs" Line="1" Column="1" />
       <File FileName="..\UnityPractice\Lesson16\Assets\Scripts\Flipper.cs" Line="9" Column="21" />
-      <File FileName="Assets\Script\Plank.cs" Line="18" Column="37" />
-      <File FileName="Assets\Script\Ball.cs" Line="30" Column="3" />
+      <File FileName="Assets\Script\Plank.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Ball.cs" Line="9" Column="32" />
+      <File FileName="Assets\Script\GameController.cs" Line="18" Column="19" />
+      <File FileName="..\UnityPractice\Lesson7\Assets\SpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="..\UnityPractice\Lesson7\Assets\Timer.cs" Line="1" Column="1" />
+      <File FileName="..\UnityPractice\Lesson7\Assets\Rotation.cs" Line="1" Column="1" />
+      <File FileName="..\UnityPractice\Lesson12\Assets\BlockBlue.cs" Line="1" Column="1" />
+      <File FileName="..\UnityPractice\Lesson36\Assets\Script\CameraView.cs" Line="12" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\Project\GitHub\BrickBreaker\Assets\Script\Ball.cs" line="20" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
